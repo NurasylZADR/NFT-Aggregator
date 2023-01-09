@@ -1,0 +1,14 @@
+NFT Aggregator
+• Problem Statement: Implement a Web Service for collecting an
+information about NFTs in Solana
+• Have a web page which receives as an input the address of a NFT
+• Web page should contain an input field and button <Get Info>
+• When User provides an address of an NFT and presses the button, it should
+show full information about that NFT and store all the data inside the
+Postgres Database
+
+Requirements
+• As a web framework use Flask
+• As a database use Postgresql
+• Use Moralis -> https://moralis.io/ in order to get an information
+about NFT
